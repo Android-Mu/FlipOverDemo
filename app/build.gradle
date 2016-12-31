@@ -24,6 +24,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.1.0'
     // 开原动画框架
     compile 'com.nineoldandroids:library:2.4.0'
+
     compile 'com.android.support:recyclerview-v7:25.1.0'
     compile 'com.alibaba:fastjson:1.2.22'
 }

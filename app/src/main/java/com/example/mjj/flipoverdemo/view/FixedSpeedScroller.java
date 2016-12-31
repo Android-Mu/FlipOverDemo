@@ -5,7 +5,7 @@ import android.view.animation.Interpolator;
 import android.widget.Scroller;
 
 /**
- * 自定义ViewPager
+ * 自定义Scroller
  * <p>
  * Created by Mjj on 2016/12/20.
  */
